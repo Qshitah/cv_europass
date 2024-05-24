@@ -1,0 +1,111 @@
+{
+    "givenName": "John",
+    "familyName": "Doe",
+    "formattedName": "John Doe",
+    "birthDate": "1990-01-01",
+    "email": "john.doe@example.com",
+    "phoneNumber": "+1234567890",
+    "address": {
+        "addressDescription": "123 Main St",
+        "postalCode": 12345,
+        "city": {
+            "name": "New York",
+            "country": {
+                "name": "United States"
+            }
+        }
+    },
+    "primaryLanguage": {
+        "languageCode": "en"
+    },
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "startDate": "2015-01-01",
+            "endDate": "2020-12-31",
+            "description": "Worked as a software engineer in XYZ Company"
+        },
+        {
+            "title": "Web Developer",
+            "startDate": "2021-01-01",
+            "endDate": null,
+            "description": "Currently working as a web developer in ABC Company"
+        }
+    ],
+    "skills": [
+        {
+            "description": "Java"
+        },
+        {
+            "description": "Spring Framework"
+        },
+        {
+            "description": "HTML"
+        },
+        {
+            "description": "CSS"
+        },
+        {
+            "description": "JavaScript"
+        }
+    ],
+    "languageProficiencies": [
+        {
+            "resume": null,
+            "language": {
+                "languageCode": "en"
+            },
+            "understandingListening": {
+                "level": "C1"
+            },
+            "understandingReading": {
+                "level": "C1"
+            },
+            "speakingInteraction": {
+                "level": "B2"
+            },
+            "speakingProduction": {
+                "level": "B2"
+            },
+            "writingProduction": {
+                "level": "B2"
+            }
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Java Certification",
+            "description": "Certification for Java programming language"
+        }
+    ],
+    "countries": [
+        {
+            "name": "United States",
+            "cities": [
+                {
+                    "name": "New York"
+                },
+                {
+                    "name": "Los Angeles"
+                }
+            ]
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2010-09-01",
+            "endDate": "2014-06-01",
+            "degree": {
+                "title": "Bachelor's Degree in Computer Science",
+                "institution": {
+                    "name": "University of Example"
+                },
+                "sector": {
+                    "name": "Computer Science",
+                    "description": "The study of computers and computational systems"
+                }
+            },
+            "resumes": null
+        }
+    ]
+}
